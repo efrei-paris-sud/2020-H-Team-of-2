@@ -1,4 +1,4 @@
-# Team Name: Bla Bla
+# Team Name: Team of 2
 Members: 
 |![THOMAS Nathan](assets/member1.webp?raw=true) |![NGUYEN Luc-Eric](assets/member2.webp?raw=true)  |
 |--|--|
