@@ -29,5 +29,4 @@ Please don't forget to update the github repository information too.
 
 The lab reports are accessible from [this link](lab)
 
-# Refereces:
-[Avatar](https://iconscout.com/icons/avatar) by [Dmitriy Bondarchuk](https://iconscout.com/contributors/dmitriy-bondarchuk)
+
