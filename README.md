@@ -27,6 +27,6 @@ Please don't forget to update the github repository information too.
 
 # Lab Reports
 
-The lab reports are accessible from [this link](lab)
+The lab reports are accessible from [this link](lab).
 
 
