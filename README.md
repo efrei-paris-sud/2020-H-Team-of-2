@@ -1,6 +1,6 @@
 # Team Name: Team of 2
 Members: 
-|![THOMAS Nathan](assets/member1.webp?raw=true) |![NGUYEN Luc-Eric](assets/member2.webp?raw=true)  |
+|![THOMAS Nathan](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/assets/Nathan%20Thomas.jpg) |![NGUYEN Luc-Eric](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/assets/Photo%20luc.jpg)  |
 |--|--|
 |  [THOMAS Nathan](https://github.com/username) <br> a short description of her responsiblity ...| [NGUYEN Luc-Eric](https://github.com/username) <br> a short description of his responsiblity ... |
 
