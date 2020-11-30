@@ -2,7 +2,7 @@
 Members: 
 |![THOMAS Nathan](assets/member1.webp?raw=true) |![NGUYEN Luc-Eric](assets/member2.webp?raw=true)  |
 |--|--|
-|  [Member 1](https://github.com/username) <br> a short description of her responsiblity ...| [Member 2 ](https://github.com/username) <br> a short description of his responsiblity ... |
+|  [THOMAS Nathan](https://github.com/username) <br> a short description of her responsiblity ...| [NGUYEN Luc-Eric](https://github.com/username) <br> a short description of his responsiblity ... |
 
 
 
