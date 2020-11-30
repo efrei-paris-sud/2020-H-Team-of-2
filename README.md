@@ -2,7 +2,7 @@
 Members: 
 |![THOMAS Nathan](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/assets/Nathan%20Thomas.jpg) |![NGUYEN Luc-Eric](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/assets/Photo%20luc.jpg)  |
 |--|--|
-|  [THOMAS Nathan](https://github.com/username) <br> a short description of her responsiblity ...| [NGUYEN Luc-Eric](https://github.com/username) <br> a short description of his responsiblity ... |
+|  [THOMAS Nathan](https://github.com/username) <br> Co-Fonder of Smart Lock | [NGUYEN Luc-Eric](https://github.com/username) <br> Co-Fonder of Smart Lock |
 
 
 
