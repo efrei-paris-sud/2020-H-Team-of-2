@@ -7,9 +7,9 @@ Members:
 
 
 # Project Title: Smart Lock
- **Description**: Our project name is Smart Lock. It will be a lock (for a door for example) that will work with an RFID system. 
+ **Description**: Our project name is Smart Lock. It will be a lock (for a door for example) that will work with a fingerprint system. 
  
-We will use either the chip of the phone or a card (like the one uses for the bus). For the cloud part, the access will be manage trough a database and not directly in the Arduino card. 
+For the cloud part, the access will be manage trough a database and not directly in the Arduino card. 
 
 It will allow us to modify permission with our interface that will probably be a web site. The plus that we imagine would be to implement a captor in the lock in order to create a “warning mode” that could be use when you go in holidays. 
 
