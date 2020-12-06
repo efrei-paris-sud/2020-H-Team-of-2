@@ -22,10 +22,10 @@ bla bla bla bla bla bla bla bla blabla bla blabla bla blabla bla bla  bla bla bl
 
 # Components
 - 1 x Arduino Uno
-- 1 X Door Sensor
+- 1 x Door Sensor
 - 1 x Breadboard
-- 1 X Fingerprint Sensor
-- 1 X ESP 8266
+- 1 x Fingerprint Sensor
+- 1 x ESP 8266
 - Wires
 
 # Schematic
