@@ -16,7 +16,7 @@ It will allow us to modify permission with our interface that will probably be a
 It will simply send a notification when the door is open if you switch on this mode.
 
  
-[Click here for more information about the project](https://github.com/Gaffeur/IoT_Project). 
+[Click here for more information about the project](https://github.com/efrei-paris-sud/2020-H-Team-of-2/tree/main/project). 
 
 # Lab Reports
 
