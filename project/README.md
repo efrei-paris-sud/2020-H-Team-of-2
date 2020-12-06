@@ -1,5 +1,5 @@
 
-# Project Title:
+# Project Title: Smart Lock
 Please use a gif format for the cover photo like this: (you can create gif using https://ezgif.com/maker)
 ![Cover GIF](doc/Arduino_LED.gif?raw=true)
 
@@ -22,10 +22,12 @@ bla bla bla bla bla bla bla bla blabla bla blabla bla blabla bla bla  bla bla bl
 
 # Components
 - 1 x Arduino Uno
-- 1 x BMP 280
+- 1 X Door Sensor
 - 1 x Breadboard
-- 
-- 
+- 1 X Fingerprint Sensor
+- 1 X ESP 8266
+- Wires
+
 # Schematic
 ![schema](doc/photo.png?raw=true)
 
