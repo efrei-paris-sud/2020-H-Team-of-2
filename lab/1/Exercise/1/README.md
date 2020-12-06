@@ -2,7 +2,7 @@
 
 ## Turning on/off an LED
 
-We did the same thing as the image and put the code provided in the arduino to turn on the LED
+We did the same thing as the image and put the code provided in the arduino to turn on the LED.
 
 ## Code provided
 
@@ -25,6 +25,6 @@ void loop() {
  ```
 
 ## Image
-We can see the result of the first exercice below in this image
+We can see the result of the first exercice below in this image.
 ![Image](https://github.com/Gaffeur/IoT_TP1/blob/main/LabOne/Exercise/1/Exercice%201.jpg)
 
