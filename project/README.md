@@ -12,9 +12,9 @@ Please use a gif format for the cover photo like this: (you can create gif using
 
 bla bla bla bla bla bla bla bla blabla bla blabla bla blabla bla bla  bla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla bla
 
-[Team Report](doc/report.pdf) 
+[Team Report]
 
-[Team Presentation](doc/presentation.pdf)
+[Team Presentation]
 
 # Working Video
 
