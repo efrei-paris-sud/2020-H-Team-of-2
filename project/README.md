@@ -22,13 +22,16 @@ bla bla bla bla bla bla bla bla blabla bla blabla bla blabla bla bla  bla bla bl
 
 # Components
 
-You can find below the list of components that we used. We put the link for the component that we needed to buy, the others were present in the Arduino starter kit that we have.
+You can find below the list of components that we used. We put the link for the component that we needed to buy, the others were present in the Arduino starter kit that we have. The key and the motor will simulate a lock for the door.
+
 - 1 x Arduino Uno
 - 1 x [Door Sensor MC 38](https://www.amazon.fr/ARCELI-D%C3%A9tecteur-Fen%C3%AAtre-Filaire-Magn%C3%A9tique/dp/B07DN21G36/ref=sr_1_3?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=MC-38&qid=1607008136&sr=8-3)
-- 1 x Breadboard
 - 1 x [Fingerprint Reader AS608](https://www.banggood.com/fr/AS608-Fingerprint-Reader-Sensor-Module-Optical-Fingerprint-Module-Locks-Serial-Communication-Interface-p-1565798.html?rmmds=search&cur_warehouse=CN)
 - 1 x [ESP 8266](https://www.amazon.fr/AZDelivery-D1-Mini-d%C3%A9veloppement-compatible/dp/B01N9RXGHY/ref=sr_1_2_sspa?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=esp8266&qid=1607008147&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTTU5S1pUUlJCUk1KJmVuY3J5cHRlZElkPUEwMjMwMDA5MUJSQTMxOVpST0JCMyZlbmNyeXB0ZWRBZElkPUEwMzg5ODUwM1BNQk5BREE0UEozQyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+- 1 x key
+- 1 x motor 
 - Wires
+- 1 x Breadboard
 
 # Schematic
 ![schema](doc/photo.png?raw=true)
