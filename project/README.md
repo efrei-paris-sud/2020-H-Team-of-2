@@ -1,5 +1,14 @@
 
 # Smart Lock
+
+Description: Our project name is Smart Lock. It will be a lock (for a door for example) that will work with a fingerprint system.
+
+For the cloud part, the access will be manage trough a database.
+
+It will allow us to modify permission with our interface that will probably be a web site. The plus that we imagine would be to implement a captor on the door in order to create a “warning mode” that could be use when you go in holidays.
+
+It will simply send a notification when the door is open if you switch on this mode.
+
 Please use a gif format for the cover photo like this: (you can create gif using https://ezgif.com/maker)
 ![Cover GIF](doc/Arduino_LED.gif?raw=true)
 
