@@ -9,11 +9,10 @@ Members:
 # Project Title: Smart Lock
  **Description**: Our project name is Smart Lock. It will be a lock (for a door for example) that will work with a fingerprint system. 
  
-For the cloud part, the access will be manage trough a database and not directly in the Arduino card. 
+For the cloud part, the access will be manage through a database and not directly in the Arduino card. 
 
-It will allow us to modify permission with our interface that will probably be a web site. The plus that we imagine would be to implement a captor on the door in order to create a “warning mode” that could be use when you go in holidays. 
+It will allow us to modify permission with our interface that will probably be a web site. We will implement a door sensor that will allow us to know if someone open or close the door without using the fingerprint system. It will work like an alarm. If needed, it will send a notification.
 
-It will simply send a notification when the door is open if you switch on this mode.
 
  
 [Click here for more information about the project](https://github.com/efrei-paris-sud/2020-H-Team-of-2/tree/main/project). 
