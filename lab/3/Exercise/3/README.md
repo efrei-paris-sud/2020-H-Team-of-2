@@ -125,7 +125,7 @@ void loop() {
 }
 ```
 
-## Image
+## Image of the circuit
 
 Here you can find what we display on the screen with the code above.
 
