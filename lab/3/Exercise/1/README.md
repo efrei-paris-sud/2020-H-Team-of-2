@@ -2,6 +2,7 @@
 
 ## Find I2C devices
 
+For the step 1 and 2, the objective was to realize the circuit and install the correct library.
 In this question, the aim was to use the code that we have in the example to find the hexadecimal address of our OLED screen. The address was 0x3C. 
 
 ## Code
