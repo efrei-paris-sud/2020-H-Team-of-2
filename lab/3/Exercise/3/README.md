@@ -4,7 +4,8 @@ In this part, the aim was to learn how to create a bitmap and display it on the 
 
 ## Display a custom image
 
-
+So, for this part, we had to understand the code. It wasn't too hard, because the only part we have to change was the code of the bitmap that we find on the website, the size
+of each component we were displaying and handle the text part.
 
 ## Code 
 
