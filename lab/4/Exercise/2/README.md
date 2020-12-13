@@ -3,7 +3,7 @@
 ## Add OLED display
 
 We did the same process as the exercice 1 but now we use the OLED screen of the Lab 3 with an ESP 32.
-The objective is to display the head of Nathan on the OLED screen that is connected to the ESP 32. We just need to verify before the right connexion between ESP 32 and the OLED screen
+The objective is to display the head of Nathan on the OLED screen that is connected to the ESP 32. We just need to verify connexion between ESP 32 and the OLED screen
 with the code that parsing and find if the OLED screen is connected and give it address.
 
 ## Code provided
