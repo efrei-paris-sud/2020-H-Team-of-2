@@ -2,8 +2,9 @@
 
 ## Installing ESP32 Add-on in Arduino IDE & Upload blinking LED code
 
-After installing the ESP32, we just need to put the same code the same way as the Lab 1. We just need to change the pin of LED we choose on the ESP 32. After that we charge the code on the ESP 32 and it's working fine
-There is no issue during this exercice
+After installing the ESP32, we just need to put the same code the same way as the [Lab 1](https://github.com/efrei-paris-sud/2020-H-Team-of-2/tree/main/lab/1/Exercise/1). We just need to change the pin of LED we choose on the ESP 32. After that we charge the code on the ESP 32 and it's working fine.
+
+There was no issue during this exercice.
 
 ## Code provided
 
