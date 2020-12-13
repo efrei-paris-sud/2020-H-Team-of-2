@@ -2,8 +2,12 @@
 
 ## Thingspeak platform
 
-After installing the ESP32, we just need to put the same code the same way as the Lab 1. We just need to change the pin of LED we choose on the ESP 32. After that we charge the code on the ESP 32 and it's working fine
-There is no issue during this exercice
+Now the biggest here we are at the biggest exercice, we want to read analog values from the potentiometer which is connected to the ESP 32 with the platform Thingspeak.
+The informations of the potentiometer are sended by the ESP32 which is connected to my own WIFI. The informations are send by internet and they are display on the platform Thingspeak.
+
+You can see the result on the image below that the curve can reach 5k cause the ESP32 is better than the arduino.
+
+The issue of this exercice is that we didn't realize the right enbranchment and we forgot to change the code to read the analog values.
 
 ## Code WriteSingleField
 
@@ -85,7 +89,9 @@ void loop() {
 
  ```
  
-## Image
-We can see the result of the first exercice below in this image.
-![Image](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/lab/4/Exercise/1/Ex1.jpg)
+## Images
+We can see the result of the third exercice below in this image.
+![Image](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/lab/4/Exercise/3/Ex3.jpg)
 
+We can see the curve of the third exercice on Thingspeak below in this image.
+![Image](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/lab/4/Exercise/3/Ex3bis.PNG)
