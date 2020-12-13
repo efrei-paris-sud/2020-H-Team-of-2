@@ -2,14 +2,16 @@
 
 ## Thingspeak platform
 
-Now the biggest here we are at the biggest exercice, we want to read analog values from the potentiometer which is connected to the ESP 32 with the platform Thingspeak.
-The informations of the potentiometer are sended by the ESP32 which is connected to my own WIFI. The informations are send by internet and they are display on the platform Thingspeak.
+Now, it was the biggest part in the TP. We want to read analog values from the potentiometer which is connected to the ESP 32 with the platform Thingspeak.
+The informations of the potentiometer are sended by the ESP32 which is connected to my own WIFI. The information are send by internet and they are display on the platform Thingspeak.
 
-You can see the result on the image below that the curve can reach 5k cause the ESP32 is better than the arduino.
+You can see the result on the image below that the curve can reach 4096 cause the ESP32 is better than the arduino.
 
 The issue of this exercice is that we didn't realize the right enbranchment and we forgot to change the code to read the analog values.
 
 ## Code WriteSingleField
+
+This code was provided in an example of the ESP 32 library. We just change the value that was sending to send the value that we read with the potentiometer.
 
 ```C
 
@@ -74,7 +76,7 @@ void loop() {
 }
  ```
  
- ## Code Secret
+ ## Code Secret.h
  
 ```C
 
