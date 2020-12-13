@@ -29,5 +29,5 @@ void loop() {
 
 ## Image
 We can see the result of the first exercice below in this image.
-![Image](https://github.com/Gaffeur/IoT_TP1/blob/main/LabOne/Exercise/1/Exercice%201.jpg)
+![Image](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/lab/4/Exercise/1/Ex1.jpg)
 
