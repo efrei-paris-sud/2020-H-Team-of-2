@@ -123,6 +123,6 @@ void loop() {
  ```
 
 ## Image
-We can see the result of the first exercice below in this image.
-![Image](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/lab/4/Exercise/1/Ex1.jpg)
+We can see the result of the second exercice below in this image.
+![Image](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/lab/4/Exercise/2/Ex2.jpg)
 
