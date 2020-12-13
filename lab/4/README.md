@@ -12,4 +12,5 @@ which is suitable for this usage. We use the same code as the TP 3 for exercices
   
 ## Issues
   
-1. For this TP, the bigger issue we had, was to display a bitmap on the OLED screen because we forgot and didn't know when the ESP32 is right connected to the OLED. The second issue is the same problem for the exercice 3, we didn't make the good embranchment with the potentiometer and forgot to read the analog values.
+1. For this TP, the bigger issue we had, was to display a bitmap on the OLED screen because we forgot and didn't know when the ESP32 is right connected to the OLED. 
+2. The second issue is the same problem for the exercice 3, we didn't make the good embranchment with the potentiometer and forgot to read the analog values.
