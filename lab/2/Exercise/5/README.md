@@ -10,4 +10,4 @@ can see below how it would work.
 In this schema, you can see that we have branched the ground, the VCC, the SDA and the SCL wires to the rights ports of the MPU.
 
 
-![Image](https://github.com/Gaffeur/IoT_TP1/blob/main/LabTwo/Exercise/5/MPU%205060%20schema.png)
+![Image](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/lab/2/Exercise/5/MPU%205060%20schema.png)
