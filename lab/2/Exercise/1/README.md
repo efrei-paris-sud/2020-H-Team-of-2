@@ -37,6 +37,6 @@ void loop() {
 
 ```
 ## Image
-This is the same circuit as the [exercise 6](https://github.com/Gaffeur/IoT_TP1/tree/main/LabOne/Exercise/6) in the TP1. We only connect the buzzer to the arduino card.
+This is the same circuit as the [exercise 6](https://github.com/efrei-paris-sud/2020-H-Team-of-2/tree/main/lab/1/Exercise/6) in the TP1. We only connect the buzzer to the arduino card.
 
-![Image](https://github.com/Gaffeur/IoT_TP1/blob/main/LabTwo/Exercise/1/Buzzer.jpg)
+![Image](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/lab/2/Exercise/1/Buzzer.jpg)
