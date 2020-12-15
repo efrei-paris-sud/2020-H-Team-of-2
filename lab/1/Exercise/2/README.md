@@ -32,4 +32,4 @@ void loop() {
 
 ## Image
 The only one change that differt from the first exercice that we change the wire in the port 4 instead of 6.
-![image](https://github.com/Gaffeur/IoT_TP1/blob/main/LabOne/Exercise/2/Exercice%202.jpg)
+![image](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/lab/1/Exercise/2/Exercice%202.jpg)
