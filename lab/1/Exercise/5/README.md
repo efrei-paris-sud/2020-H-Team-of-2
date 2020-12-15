@@ -34,4 +34,4 @@ void loop() {
 
 ## Image 
 Same image for Exercice 1 & 2 but the principle is different
-![Image](https://github.com/Gaffeur/IoT_TP1/blob/main/LabOne/Exercise/5/Exercice5.jpg)
+![Image](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/lab/1/Exercise/5/Exercice5.jpg)
