@@ -8,4 +8,4 @@ In this exercise, we were supposed to model the whole circuit by using Fritzing.
 
 On the schema you can see all the wires and all the components of the circuit.
 
-![Image](https://github.com/Gaffeur/IoT_TP1/blob/main/LabTwo/Exercise/7/Fritzing%20schema.PNG)
+![Image](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/lab/2/Exercise/7/Fritzing%20schema.PNG)
