@@ -53,4 +53,4 @@ void setColor(int red, int green, int blue){
 }
 ```
 ## Image
-![Image](https://github.com/Gaffeur/IoT_TP1/blob/main/LabOne/Exercise/7/RGB.jpg)
+![Image](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/lab/1/Exercise/7/RGB.jpg)
