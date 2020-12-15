@@ -18,6 +18,7 @@ const int led = 4; // the LED port
 void setup() {                
   // initialize the digital pin as an output.
   pinMode(led, OUTPUT);
+  pinMode(buttonPin, INPUT);
   buttonState = digitalRead(buttonPin);     
 }
  
