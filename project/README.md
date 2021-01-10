@@ -37,7 +37,7 @@ You can find below the list of components that we used. We put the link for the 
 - 1 x Breadboard
 
 # Schematic
-![schema](doc/photo.png?raw=true)
+![Fritzing](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/assets/Fritzing%20smarlock%20iot.PNG)
 
 # Overview on the code
 Please provide a high level algorithm of your code. if you need to mention some part of the code you can do it like:
