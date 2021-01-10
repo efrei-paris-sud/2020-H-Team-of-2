@@ -1,16 +1,18 @@
 
 # Smart Lock
 
- **Description**: Our project name is Smart Lock. It will be a lock (for a door for example) that will work with a fingerprint system. 
- 
-For the cloud part, the access will be manage through a database and not directly in the Arduino card. 
+ **Description**: Our project name is Smart Lock. It's a lock (for a door for example) that works with a fingerprint system.
 
-It will allow us to modify permission with our interface that will probably be a web site. We will implement a door sensor that will allow us to know if someone open or close the door without using the fingerprint system. It will work like an alarm. If needed, it will send a notification.
+The system works with an ESP 32 that is connected in Wifi to send data.
 
- - [x] When the fingerprint module will detect a good fingerprint it will open the lock. If it's not good it will not open. And the informations are display on a LCD.
- - [x] If you are already inside and want to leave you just need tu use the push button inside to open the lock.
- - [x] If the alarm is still trigger and the door sensor detect that the door is open, it will send a notification.
- - [x] We can observe in real time when the lock is open with notifications send to our email and get the historic on a google sheet
+The fingerprint are memorize in the module AS 308 and we can manage them through 2 basics programs to add or delete fingerprint. 
+We also have implemented a door sensor that allow us to know if someone open or close the door. When the door sensor is trigger it's send a mail to notify that the door is open. It's like a quite alarm. 
+The fingerprint system simulates the outside of the house and a simple button simulates the inside of the house.
+
+ - [x] When the fingerprint module will detect a good fingerprint it will open the lock. If it's not good it will not open. And the informations are display on a LCD ;
+ - [x] If you are already inside and want to leave you just need tu use the push button inside to open the lock ;
+ - [x] The door sensor send an email when it's open ;
+ - [x] We can observe in real time when the lock is open from outside and get the historic on a google sheet ;
  - [x] The transmission will use an ESP32 for the Wi-Fi connection.
 
 Please use a gif format for the cover photo like this: (you can create gif using https://ezgif.com/maker)
