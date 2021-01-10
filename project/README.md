@@ -47,8 +47,7 @@ You can find below the list of components that we used. We put the link for the 
 
 # Overview on the code
 
-Here you can find the principle program that manage the lock. You can find the programs to add and delete fingerprint here. // TO DO the link and the code
-```Arduino
+Here you can find the principle program that manage the lock. You can find the programs to add and delete fingerprint [here](https://github.com/efrei-paris-sud/2020-H-Team-of-2/tree/main/project/src). //ADD THE CODE```Arduino
 	Serial.println('bla bla'); // This line is used to print sth in the serial port
 ``` 
 
