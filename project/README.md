@@ -29,7 +29,7 @@ Please use a gif format for the cover photo like this: (you can create gif using
 
 # Components
 
-You can find below the list of components that we used. We put the link for the component that we needed to buy, the others were present in the Arduino starter kit that we have. 
+You can find below the list of components that we used. We put the link for the component.
 
 - 1 x [Battery case](https://www.amazon.fr/ADAPTATEUR-SUPPORT-PILES-BATTERY-HOLDER/dp/B06XWSFY7X/ref=sr_1_6?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1DLSEWX17195H&dchild=1&keywords=pile+arduino&qid=1610280721&sprefix=pile+ardui%2Caps%2C143&sr=8-6) (1)
 - 1 x [ESP32](https://www.amazon.fr/AZDelivery-ESP-32-Dev-compris-eBook/dp/B07Z83MF5W/ref=sr_1_3_sspa?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=ESP32&qid=1609856750&sr=8-3-spons&psc=1&smid=A1X7QLRQH87QA3&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFMTkxaWDU0SVMzSUYmZW5jcnlwdGVkSWQ9QTA0NzM1NjIyUjQ4U0tKSTQyREtJJmVuY3J5cHRlZEFkSWQ9QTA1NTUzMDQyQlgwNVlZR1YxN0gxJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) (2)
@@ -46,7 +46,8 @@ You can find below the list of components that we used. We put the link for the 
 ![Fritzing](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/assets/Fritzing%20smarlock%20iot.PNG)
 
 # Overview on the code
-Please provide a high level algorithm of your code. if you need to mention some part of the code you can do it like:
+
+Here you can find the principle program that manage the lock. You can find the programs to add and delete fingerprint here. // TO DO the link and the code
 ```Arduino
 	Serial.println('bla bla'); // This line is used to print sth in the serial port
 ``` 
