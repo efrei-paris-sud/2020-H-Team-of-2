@@ -7,10 +7,11 @@ For the cloud part, the access will be manage through a database and not directl
 
 It will allow us to modify permission with our interface that will probably be a web site. We will implement a door sensor that will allow us to know if someone open or close the door without using the fingerprint system. It will work like an alarm. If needed, it will send a notification.
 
- - [x] When the fingerprint module will detect a good fingerprint it will open the lock. If it's not good it will not open.
+ - [x] When the fingerprint module will detect a good fingerprint it will open the lock. If it's not good it will not open. And the informations are display on a LCD.
+ - [x] If you are already inside and want to leave you just need tu use the push button inside to open the lock.
  - [x] If the alarm is still trigger and the door sensor detect that the door is open, it will send a notification.
- - [x] We will manage a part of the database from a web site.
- - [x] The transmission will use an ESP 8266 for the Wi-Fi connection.
+ - [x] We can observe in real time when the lock is open with notifications send to our email and get the historic on a google sheet
+ - [x] The transmission will use an ESP32 for the Wi-Fi connection.
 
 Please use a gif format for the cover photo like this: (you can create gif using https://ezgif.com/maker)
 ![Cover GIF](doc/Arduino_LED.gif?raw=true)
