@@ -19,7 +19,7 @@ The fingerprint system simulates the outside of the house and a simple button si
 ![Cover GIF](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/project/doc/Gif%20Cover%20Team-of-2.gif)
 
 
-[Team Report]
+[Team Report](https://iot.m3la.org/project/iot-2020-efrei-m1-team-of-2/)
 
 [Team Presentation](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/project/doc/Iot%20Smart%20Lock%201%20ppt.pptx)
 
