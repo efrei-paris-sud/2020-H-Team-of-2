@@ -21,7 +21,7 @@ Please use a gif format for the cover photo like this: (you can create gif using
 
 [Team Report]
 
-[Team Presentation]
+[Team Presentation](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/project/doc/Iot%20Smart%20Lock%201%20ppt.pptx)
 
 # Working Video
 
