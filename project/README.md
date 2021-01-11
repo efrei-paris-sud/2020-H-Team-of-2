@@ -49,8 +49,8 @@ You can find below the list of components that we used. We put the link for the 
 
 Here you can find the principle program that manage the lock. You can find the programs to add and delete fingerprint [here](https://github.com/efrei-paris-sud/2020-H-Team-of-2/tree/main/project/src). You can also find the file of the main program.
 
-```Arduino
-	/***************************************************
+``` C
+/***************************************************
 This code is edited by Sachin Soni for the project called
 IoT Attendance System 
 whose tutorial video is uploaded his YouTube Channel
@@ -58,7 +58,7 @@ Visit techiesms YouTube channel to see this and many other project tutorials
 http://www.youtube.com/techiesms
        techiesms
 explore | learn | share 
- ****************************************************/
+****************************************************/
 // This code is adapted for the Smart Lock project By Luc-Eric Nguyen and Nathan Thoams
  
 // Initialize library and const 
