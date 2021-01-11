@@ -15,8 +15,8 @@ The fingerprint system simulates the outside of the house and a simple button si
  - [x] We can observe in real time when the lock is open from outside and get the historic on a google sheet ;
  - [x] The transmission will use an ESP32 for the Wi-Fi connection.
 
-Please use a gif format for the cover photo like this: (you can create gif using https://ezgif.com/maker)
-![Cover GIF](doc/Arduino_LED.gif?raw=true)
+
+![Cover GIF](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/project/doc/Gif%20Cover%20Team-of-2.gif)
 
 
 [Team Report]
