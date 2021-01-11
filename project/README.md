@@ -5,7 +5,7 @@
 
 The system works with an ESP 32 that is connected in Wifi to send data.
 
-The fingerprint are memorize in the module AS 308 and we can manage them through 2 basics programs to add or delete fingerprint. 
+The fingerprint are memorize in the module AS 608 and we can manage them through 2 basics programs to add or delete fingerprint. 
 We also have implemented a door sensor that allow us to know if someone open or close the door. When the door sensor is trigger it's send a mail to notify that the door is open. It's like a quite alarm. 
 The fingerprint system simulates the outside of the house and a simple button simulates the inside of the house.
 
