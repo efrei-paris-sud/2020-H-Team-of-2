@@ -25,7 +25,7 @@ Please use a gif format for the cover photo like this: (you can create gif using
 
 # Working Video
 
- [![Example Video of the porject](https://img.youtube.com/vi/ucZl6vQ_8Uo/0.jpg)](https://www.youtube.com/watch?v=ucZl6vQ_8Uo)
+ [![Example Video of the porject](https://www.youtube.com/watch?v=3tVcI_w2x9o&feature=youtu.be&ab_channel=LuckeNguyen)
 
 # Components
 
