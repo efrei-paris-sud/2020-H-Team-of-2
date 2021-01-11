@@ -25,7 +25,7 @@ Please use a gif format for the cover photo like this: (you can create gif using
 
 # Working Video
 
- [![Example Video of the porject](https://www.youtube.com/watch?v=3tVcI_w2x9o&feature=youtu.be&ab_channel=LuckeNguyen)
+ [![Example Video of the porject](https://github.com/efrei-paris-sud/2020-H-Team-of-2/blob/main/project/doc/youtubelogo_large.png)](https://www.youtube.com/watch?v=3tVcI_w2x9o&feature=youtu.be&ab_channel=LuckeNguyen)
 
 # Components
 
